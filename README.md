@@ -1,5 +1,5 @@
 # Hi, I'm Phattarapol 👋
-### Applied Computer Science Student at King Mongkut's University of Technology Thonburi 🚀
+### Applied Computer Science Student at King Mongkut's University of Technology Thonburi
 
 Exploring Data Science / Machine Learning.
 
